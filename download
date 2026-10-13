@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Editor settings
+.vscode/
+
+# Scraped data output
+data/
+
+# WebDriver logs
+geckodriver.log
+chromedriver.log
