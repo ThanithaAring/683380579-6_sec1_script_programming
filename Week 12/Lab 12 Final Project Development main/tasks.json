@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "description": "Finish Script Programming Week 12 Final Project",
+        "completed": false,
+        "tags": ["study", "python", "final-project"],
+        "_type": "PriorityTask",
+        "priority": "High"
+    },
+    {
+        "id": 2,
+        "description": "Push Final Project to GitHub",
+        "completed": false,
+        "tags": ["study", "github"],
+        "_type": "DueDateTask",
+        "due_date": "2026-10-20"
+    },
+    {
+        "id": 3,
+        "description": "Linear Algebra homework: matrix inverse",
+        "completed": false,
+        "tags": ["study", "math"],
+        "_type": "DueDateTask",
+        "due_date": "2026-10-16"
+    },
+    {
+        "id": 4,
+        "description": "Prepare slides for project presentation",
+        "completed": false,
+        "tags": ["presentation", "final-project"],
+        "_type": "PriorityTask",
+        "priority": "Medium"
+    },
+    {
+        "id": 5,
+        "description": "Review Data Structures: linked list and stack",
+        "completed": true,
+        "tags": ["study", "data-structures"],
+        "_type": "Task"
+    },
+    {
+        "id": 6,
+        "description": "Submit Week 11 Document Automation lab",
+        "completed": true,
+        "tags": ["study", "python", "lab"],
+        "_type": "DueDateTask",
+        "due_date": "2026-10-13"
+    },
+    {
+        "id": 7,
+        "description": "Statistics quiz practice",
+        "completed": false,
+        "tags": ["study", "statistics"],
+        "_type": "PriorityTask",
+        "priority": "Low"
+    },
+    {
+        "id": 8,
+        "description": "Buy notebook and pens",
+        "completed": false,
+        "tags": ["personal"],
+        "_type": "Task"
+    }
+]
