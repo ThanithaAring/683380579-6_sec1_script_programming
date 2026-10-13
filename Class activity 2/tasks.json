@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "description": "Learn Python classes and objects",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "description": "Refactor Task Manager to OOP",
+        "completed": false
+    }
+]
