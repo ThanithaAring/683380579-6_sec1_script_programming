@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# Editors / notebooks
+.vscode/
+.ipynb_checkpoints/
+
+# Excel lock files
+~$*.xlsx
+
+# NOTE: data/output_sales_report.xlsx is intentionally committed
+# so the instructor can see the result on GitHub.
