@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "description": "Read PLAN.md and understand the architecture",
+        "completed": true,
+        "tags": ["study", "architecture", "week11"],
+        "_type": "Task"
+    },
+    {
+        "id": 2,
+        "description": "Submit Week 11 Enhanced Task Manager",
+        "completed": false,
+        "tags": ["assignment", "github"],
+        "_type": "DueDateTask",
+        "due_date": "2026-10-20"
+    },
+    {
+        "id": 3,
+        "description": "Implement search_tasks, filter_tasks and sort_tasks",
+        "completed": true,
+        "tags": ["coding", "python"],
+        "_type": "PriorityTask",
+        "priority": "High"
+    },
+    {
+        "id": 4,
+        "description": "Draw the module diagram for PLAN.md",
+        "completed": false,
+        "tags": ["design", "week11"],
+        "_type": "PriorityTask",
+        "priority": "Medium"
+    },
+    {
+        "id": 5,
+        "description": "Linear Algebra homework",
+        "completed": false,
+        "tags": ["study", "math"],
+        "_type": "DueDateTask",
+        "due_date": "2026-10-16"
+    },
+    {
+        "id": 6,
+        "description": "Review unit tests before submission",
+        "completed": false,
+        "tags": ["testing", "python"],
+        "_type": "PriorityTask",
+        "priority": "Low"
+    }
+]
