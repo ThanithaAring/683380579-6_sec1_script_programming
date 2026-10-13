@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# Editors / notebooks
+.vscode/
+.ipynb_checkpoints/
+
+# NOTE: output files in data/ are intentionally committed
+# so the instructor can see the results on GitHub.
