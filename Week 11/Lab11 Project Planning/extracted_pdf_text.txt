@@ -1,0 +1,18 @@
+Enhanced Task Manager - Project Specification
+Document ID: ETM-SPEC-001   Version: 1.0
+1. Overview
+The Enhanced Task Manager is a command-line application that helps users
+organize daily work. Users can create tasks, set priorities and due dates,
+and track progress until each task is completed.
+2. Functional Requirements
+- Add, edit and delete tasks
+- Assign a priority (High / Medium / Low) and a due date
+- Search and filter tasks by keyword, status or priority
+- Save and load tasks from a JSON file
+- Export a summary report
+3. Non-Functional Requirements
+- Modular code structure that is easy to test
+- Clear error messages and logging
+- Configuration stored outside the source code
+
+--- Page End ---

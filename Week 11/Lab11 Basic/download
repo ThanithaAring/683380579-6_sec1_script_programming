@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Editor / notebook
+.vscode/
+.ipynb_checkpoints/
+
+# Split PDF parts (if split_pdf is used)
+documents/*_part_*.pdf

@@ -1,0 +1,86 @@
+[
+    {
+        "timestamp": "2026-10-13T19:38:23",
+        "status": "INFO",
+        "task_type": "agent_run",
+        "message": "Document Agent started.",
+        "details": {}
+    },
+    {
+        "timestamp": "2026-10-13T19:38:23",
+        "status": "INFO",
+        "task_type": "generate_word_report",
+        "message": "Starting task 'Generate Task Manager Sprint Report'",
+        "details": {}
+    },
+    {
+        "timestamp": "2026-10-13T19:38:23",
+        "status": "SUCCESS",
+        "task_type": "generate_word_report",
+        "message": "Task 'Generate Task Manager Sprint Report' completed.",
+        "details": {}
+    },
+    {
+        "timestamp": "2026-10-13T19:38:23",
+        "status": "INFO",
+        "task_type": "apply_pdf_watermark",
+        "message": "Starting task 'Apply Confidential Watermark to PDF'",
+        "details": {}
+    },
+    {
+        "timestamp": "2026-10-13T19:38:23",
+        "status": "SUCCESS",
+        "task_type": "apply_pdf_watermark",
+        "message": "Task 'Apply Confidential Watermark to PDF' completed.",
+        "details": {}
+    },
+    {
+        "timestamp": "2026-10-13T19:38:23",
+        "status": "INFO",
+        "task_type": "merge_pdfs",
+        "message": "Starting task 'Merge Project Planning and Design Documents'",
+        "details": {}
+    },
+    {
+        "timestamp": "2026-10-13T19:38:23",
+        "status": "SUCCESS",
+        "task_type": "merge_pdfs",
+        "message": "Task 'Merge Project Planning and Design Documents' completed.",
+        "details": {}
+    },
+    {
+        "timestamp": "2026-10-13T19:38:23",
+        "status": "INFO",
+        "task_type": "extract_word_text",
+        "message": "Starting task 'Extract Text from Generated Word Report'",
+        "details": {}
+    },
+    {
+        "timestamp": "2026-10-13T19:38:23",
+        "status": "SUCCESS",
+        "task_type": "extract_word_text",
+        "message": "Task 'Extract Text from Generated Word Report' completed.",
+        "details": {}
+    },
+    {
+        "timestamp": "2026-10-13T19:38:23",
+        "status": "INFO",
+        "task_type": "extract_pdf_text",
+        "message": "Starting task 'Extract Text from Source PDF'",
+        "details": {}
+    },
+    {
+        "timestamp": "2026-10-13T19:38:23",
+        "status": "SUCCESS",
+        "task_type": "extract_pdf_text",
+        "message": "Task 'Extract Text from Source PDF' completed.",
+        "details": {}
+    },
+    {
+        "timestamp": "2026-10-13T19:38:23",
+        "status": "INFO",
+        "task_type": "agent_run_summary",
+        "message": "Finished 5/5 tasks successfully in 0.06s.",
+        "details": {}
+    }
+]

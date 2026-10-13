@@ -1,0 +1,320 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F2 7 0 R
+/F172cc443a-76a4-4754-af84-68ef3f4b9647 <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+/F2a485388e-1949-4a24-8cfc-5dc72955b074 <<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+>>
+/ProcSet [ /Text /ImageB /ImageC /ImageI /PDF ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 1 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 2569
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F2 18 Tf
+21.6 TL
+ET
+BT
+1 0 0 1 72 769.8898 Tm
+(Enhanced\040Task\040Manager\040\055\040Project\040Specification) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 741.8898 Tm
+(Document\040ID\072\040ETM\055SPEC\055001\040\040\040Version\072\0401\0560) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 725.8898 Tm
+T*
+ET
+BT
+/F2 13 Tf
+15.6 TL
+ET
+BT
+1 0 0 1 72 709.8898 Tm
+(1\056\040Overview) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 687.8898 Tm
+(The\040Enhanced\040Task\040Manager\040is\040a\040command\055line\040application\040that\040helps\040users) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 671.8898 Tm
+(organize\040daily\040work\056\040Users\040can\040create\040tasks\054\040set\040priorities\040and\040due\040dates\054) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 655.8898 Tm
+(and\040track\040progress\040until\040each\040task\040is\040completed\056) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 639.8898 Tm
+T*
+ET
+BT
+/F2 13 Tf
+15.6 TL
+ET
+BT
+1 0 0 1 72 623.8898 Tm
+(2\056\040Functional\040Requirements) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 601.8898 Tm
+(\055\040Add\054\040edit\040and\040delete\040tasks) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 585.8898 Tm
+(\055\040Assign\040a\040priority\040\050High\040\057\040Medium\040\057\040Low\051\040and\040a\040due\040date) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 569.8898 Tm
+(\055\040Search\040and\040filter\040tasks\040by\040keyword\054\040status\040or\040priority) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 553.8898 Tm
+(\055\040Save\040and\040load\040tasks\040from\040a\040JSON\040file) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 537.8898 Tm
+(\055\040Export\040a\040summary\040report) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 521.8898 Tm
+T*
+ET
+BT
+/F2 13 Tf
+15.6 TL
+ET
+BT
+1 0 0 1 72 505.8898 Tm
+(3\056\040Non\055Functional\040Requirements) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 483.8898 Tm
+(\055\040Modular\040code\040structure\040that\040is\040easy\040to\040test) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 467.8898 Tm
+(\055\040Clear\040error\040messages\040and\040logging) Tj
+T*
+ET
+BT
+/F1 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 72 451.8898 Tm
+(\055\040Configuration\040stored\040outside\040the\040source\040code) Tj
+T*
+ET
+Q
+q
+0 0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F172cc443a-76a4-4754-af84-68ef3f4b9647 12 Tf
+14.4 TL
+ET
+0.85 0.1 0.1 rg
+/gRLs0 gs
+BT
+/F2a485388e-1949-4a24-8cfc-5dc72955b074 70 Tf
+84 TL
+ET
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+1 0 0 1 -260.54 -17.5 Tm
+(CONFIDENTIAL) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000074 00000 n 
+0000000114 00000 n 
+0000000163 00000 n 
+0000000702 00000 n 
+0000003323 00000 n 
+0000003430 00000 n 
+0000003542 00000 n 
+0000003649 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+3761
+%%EOF

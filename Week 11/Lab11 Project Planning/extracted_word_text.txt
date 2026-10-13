@@ -1,0 +1,14 @@
+Enhanced Task Manager - Sprint Report
+Date: 2026-10-13   |   Author: Thanitha   |   Script Programming Lab
+1. Introduction
+This report was generated automatically by the Document Agent. It summarizes the progress of the Enhanced Task Manager project for the current sprint.
+2. Progress Overview: October 2026
+The table below summarizes the status of each feature:
+3. Conclusion
+Core task management features are complete. The remaining work focuses on search, persistence and reporting, which are planned for the next sprint.
+Feature	Status	Progress
+Add / Edit / Delete Tasks	Done	100%
+Task Priority & Due Dates	Done	100%
+Search & Filter	In Progress	70%
+Save Tasks to JSON	In Progress	60%
+Export Report to PDF	Planned	0%

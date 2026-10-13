@@ -1,0 +1,61 @@
+{
+  "global_data": {
+    "REPORT_DATE": "2026-10-13",
+    "AUTHOR_NAME": "Thanitha",
+    "COMPANY_NAME": "Script Programming Lab"
+  },
+  "output_files": {
+    "generated_report": "documents/generated_report.docx",
+    "watermarked_pdf": "documents/watermarked_document.pdf",
+    "merged_pdf": "documents/merged_docs.pdf"
+  },
+  "tasks": [
+    {
+      "name": "Generate Task Manager Sprint Report",
+      "type": "generate_word_report",
+      "template_path": "templates/report_template.docx",
+      "output_path": "documents/generated_report.docx",
+      "data": {
+        "REPORT_TITLE": "Enhanced Task Manager - Sprint Report",
+        "INTRODUCTION_TEXT": "This report was generated automatically by the Document Agent. It summarizes the progress of the Enhanced Task Manager project for the current sprint.",
+        "MONTH_PERIOD": "October 2026"
+      },
+      "table_data": [
+        ["Feature", "Status", "Progress"],
+        ["Add / Edit / Delete Tasks", "Done", "100%"],
+        ["Task Priority & Due Dates", "Done", "100%"],
+        ["Search & Filter", "In Progress", "70%"],
+        ["Save Tasks to JSON", "In Progress", "60%"],
+        ["Export Report to PDF", "Planned", "0%"]
+      ]
+    },
+    {
+      "name": "Apply Confidential Watermark to PDF",
+      "type": "apply_pdf_watermark",
+      "input_pdf": "documents/source_document.pdf",
+      "output_pdf": "documents/watermarked_document.pdf",
+      "watermark_text": "CONFIDENTIAL",
+      "font_size": 70,
+      "color": [0.85, 0.1, 0.1, 0.18],
+      "angle": 45
+    },
+    {
+      "name": "Merge Project Planning and Design Documents",
+      "type": "merge_pdfs",
+      "input_pdfs": ["documents/dummy_doc1.pdf", "documents/dummy_doc2.pdf"],
+      "output_pdf": "documents/merged_docs.pdf"
+    },
+    {
+      "name": "Extract Text from Generated Word Report",
+      "type": "extract_word_text",
+      "input_docx": "documents/generated_report.docx",
+      "output_text_file": "documents/extracted_word_text.txt"
+    },
+    {
+      "name": "Extract Text from Source PDF",
+      "type": "extract_pdf_text",
+      "input_pdf": "documents/source_document.pdf",
+      "output_text_file": "documents/extracted_pdf_text.txt"
+    }
+  ]
+}
