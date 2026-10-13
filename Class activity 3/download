@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Editor
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Saved API results (keep the folder)
+output/*.json
