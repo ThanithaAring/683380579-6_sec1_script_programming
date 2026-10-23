@@ -45,13 +45,3 @@ enhanced-task-manager-design/
 └── README.md
 ```
 
-## Screenshots
-
-### Menu 4 – List All Tasks
-![List all tasks](screenshots/option_4_list.png)
-
-### Menu 7 – Search Tasks
-![Search tasks](screenshots/option_7_search.png)
-
-### Menu 9 – Sort Tasks
-![Sort tasks](screenshots/option_9_sort.png)
