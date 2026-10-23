@@ -51,17 +51,6 @@ my-api-fetcher/
 └── README.md
 ```
 
-## Screenshots
-
-### 1. Fetch a Single TODO Item
-![Fetch single TODO](screenshots/1_single_todo.png)
-
-### 2. Fetch All Posts
-![Fetch all posts](screenshots/2_all_posts.png)
-
-### 3. Fetch TODOs by User ID
-![Fetch user TODOs](screenshots/3_user_todos.png)
-
 ## Extension Ideas
 * Fetch comments, albums and photos; show the comments of a chosen post
 * Filter TODOs by status with `?completed=true`
