@@ -49,5 +49,3 @@ my-oop-task-manager/
 └── README.md
 ```
 
-## Screenshot – Menu 2: List Tasks
-![List tasks](screenshots/list_tasks.png)
